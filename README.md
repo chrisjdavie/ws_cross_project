@@ -42,4 +42,4 @@ the linear plotting, which is x, y and lines.
 These branches have some duplication of code, but they stem from different ways of doing things in matplotlib, and it
 was quicker and less fiddly to manage them as two independent paths.  (They were 1 tree before)
 
-Copyright Chris J. Davie, 2015
+Copyright (c) Chris J. Davie, 2015
